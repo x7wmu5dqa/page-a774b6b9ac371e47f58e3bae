@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "730747b5f62ed6d67b7aadeb",
+  "owner": "x7wmu5dqa",
+  "repo": "page-a774b6b9ac371e47f58e3bae",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a774b6b9ac371e47f58e3bae",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "53aee419ec7c6c08ea93ec79b3a0abdad2a920c11d832cd87e5251e4b16f4202",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转机场提供稳定高速VPN加速服务，官网下载客户端，支持机场订阅与多设备在线，解锁流媒体。",
+          "AI_DESCRIPTION": "GPT中转机场提供稳定高速VPN加速服务，官网下载客户端，支持机场订阅与多设备在线，解锁流媒体。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n    body {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif; background-color: #f8f9fa; color: #333; line-height: 1.6; margin:0; padding:0;}\n    main {max-width: 1100px; margin: 0 auto; padding: 20px;}\n    h1 {font-size: 2.5rem; text-align: center; color: #6b21a8; margin-bottom: 20px;}\n    h2 {font-size: 1.8rem; color: #4f46e5; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px;}\n    h3 {font-size: 1.4rem; color: #7c3aed;}\n    .card {background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 20px; margin: 15px; transition: transform 0.3s;}\n    .card:hover {transform: translateY(-5px);}\n    .card.featured {border: 3px solid #a855f7;}\n    .features-list {list-style: none; padding: 0;}\n    .features-list li {padding: 8px 0; display: flex; align-items: center;}\n    .features-list li:before {content: \"✓\"; color: #a855f7; margin-right: 10px;}\n    .plan-price {font-size: 1.8rem; font-weight: bold; color: #6b21a8;}\n    @media (max-width: 768px) {\n        main {padding: 10px;}\n        .card {margin: 10px 0;}\n    }\n</style>\n\n\n<main>\n<h1>GPT中转</h1>\n<p>专业机场订阅 VPN 加速器，稳定高速线路，助力您畅享全球网络</p>\n<section>\n<h2>品牌简介</h2>\n<p>GPT中转机场是一款高端VPN加速器，专为用户提供稳定、高速的网络加速服务。通过先进的加密技术，确保您的网络连接安全可靠。我们支持多种节点选择，帮助用户突破地域限制，畅享国际内容。</p>\n</section>\n<section>\n<h2>使用场景</h2>\n<ul>\n<li>• 机场订阅解锁流媒体：Netflix、Disney+、YouTube等平台</li>\n<li>• 游戏加速：降低网络延迟，提升游戏性能</li>\n<li>• 远程办公：稳定连接全球团队</li>\n<li>• 隐私保护：加密传输数据</li>\n</ul>\n</section>\n<section>\n<h2>操作说明</h2>\n<ol>\n<li>访问官网 <a href=\"#plans\">下载客户端</a></li>\n<li>注册账号并选择套餐</li>\n<li>登录后选择合适的节点</li>\n<li>开启加速功能，即可使用</li>\n<li>支持多设备在线，享受流畅体验</li>\n</ol>\n</section>\n<section id=\"plans\">\n<h2>定价计划</h2>\n<div>\n<div class=\"card\">\n<h3>基础版</h3>\n<p class=\"plan-price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul class=\"features-list\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#download\">立即订阅</a>\n</div>\n<div class=\"card featured\">\n<h3>旗舰版 <span>推荐</span></h3>\n<p class=\"plan-price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul class=\"features-list\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#download\">立即订阅</a>\n</div>\n<div class=\"card\">\n<h3>团队版</h3>\n<p class=\"plan-price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul class=\"features-list\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#download\">立即订阅</a>\n</div>\n</div>\n</section>\n<section>\n<h2>常见问题</h2>\n<details>\n<summary>如何下载客户端？</summary>\nGPT中转机场官网提供官方下载链接，您可以直接点击下载最新版本客户端，无需注册即可开始使用。\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n支持Windows、Mac、iOS、Android等多种设备。基础版支持3台同时在线，旗舰版5台，团队版20台。\n</details>\n<details>\n<summary>流量如何计算？</summary>\n每月流量按日累计计算，超出部分将限速或切换节点。您可以根据需求选择不同套餐以满足使用。\n</details>\n<details>\n<summary>支持流媒体解锁吗？</summary>\n基础版支持基础流媒体解锁，旗舰版和团队版提供全节点原生流媒体解锁，包括Netflix、Disney+等热门平台。\n</details>\n<details>\n<summary>客服支持如何？</summary>\n旗舰版提供7x24优先工单支持，团队版有专属客户经理服务，快速响应您的疑问。\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>友情链接：<a href=\"#privacy\">隐私政策</a> | <a href=\"#terms\">使用条款</a></p>\n<p>© 2024 GPT中转机场 官网下载</p>\n</footer>\n<a id=\"download\" href=\"#\"></a>\n\n",
+          "hash": "6d858872c1d7a172d44c35bbb9014e8e61f2f411ebb80d3a7d2a44cc401a5260",
+          "seo": {
+            "title": "GPT中转机场 - 高速VPN加速器 官网下载客户端",
+            "keywords": "GPT中转机场,VPN加速器,机场订阅,客户端下载,梯子网络加速",
+            "description": "GPT中转机场提供稳定高速VPN加速服务，官网下载客户端，支持机场订阅与多设备在线，解锁流媒体。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ev960.cn",
+    "host": "p-fc362cecea.ev960.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "22089a2e64476c7143ba4e29e0c16670d5f32555567196a43a5c40fe06571ffd",
+    "sitemap.xml": "02e812256db77d0a4023ff4fa6f78f235c1dacaa3a4dab7eec413b5963f34776",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb8b846f959913ad97c23f4118e62b843e59d58d1aad3722d58956422708b7c8",
+    "robots.txt": "39a19a12ce35dd0a926316d044b51374f8268ba284e028bbb6992b14508f4714",
+    "13ba02f578df1251ca56dd2caaa129c5.txt": "0afeaba0a0533f7d322afb2049c77f385525a8f0b743af36d258a471bd2d124b"
+  },
+  "revision": "3e8a94d127be716b9f5bb0ac0dc08a3ffcc91beb9f949415e27500d190da5dff"
+}
